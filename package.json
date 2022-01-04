@@ -1,8 +1,17 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Jom",
+	"author": "Jom Verano",
+	"description": "My first try at json file.",
+	"license": "AWS_ACTION",
+	"version": "2.1.0",
+	"keywords": [
+		"freecodecamp",
+		"starter",
+		"backend"
+	],
 	"dependencies": {
-		"express": "^4.14.0"
+    "package-name": "moment",
+    "express": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
